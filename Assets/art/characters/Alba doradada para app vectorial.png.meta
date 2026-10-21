@@ -1,0 +1,961 @@
+fileFormatVersion: 2
+guid: 04bbcea6fad49274b81f1ad8d081732b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 803
+        height: 1789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de2990c1a8209947b918e93df03b149
+      internalID: 819636901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1750
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd02afa377f2fe74f815d9d7d4345fd3
+      internalID: 1224283677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_2
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 0
+        width: 1081
+        height: 1789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443a156e1776d684b83a0c351cd8828e
+      internalID: -701267453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_3
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 164
+        width: 670
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701e518268f2d8942a1737db1cafa7c4
+      internalID: 324399006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_4
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1667
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe13b2c743b04194590e3e428125d6c7
+      internalID: 1036189374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_5
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 1667
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b65c1157cba9e44967e37d6cadebac
+      internalID: 1800448839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_6
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 47
+        width: 717
+        height: 1673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8154c07dd908a74dbdab5c88c275415
+      internalID: 2105190883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_7
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 81
+        width: 599
+        height: 1555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad22e3f8da9ca45995ec060dff1b56
+      internalID: 1436220061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_8
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1633
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8dd87afdeff2e4eb8dd46c537b01c9
+      internalID: 2043279240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_9
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1617
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a572ed32820a4204ab3995855dd09a92
+      internalID: 489366269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_10
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 231
+        width: 803
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8147a5a7a6c5674b98c3154abd04a69
+      internalID: -45938061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_11
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 1150
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b300b01b88d90141b7b8f013e1b58f4
+      internalID: 371539550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_12
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 1150
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38eabebe7ba2cb42b9bb36ea856cbeb
+      internalID: 591558655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_13
+      rect:
+        serializedVersion: 2
+        x: 4520
+        y: 1150
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40201f8cc1afaf8418df21d15a339063
+      internalID: 895626960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_14
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 1150
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288b089cee470b749aef872779c6123a
+      internalID: -1126775298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_15
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 1150
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5f57870701f83428a9d34a810a5316
+      internalID: -1992414315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_16
+      rect:
+        serializedVersion: 2
+        x: 4962
+        y: 989
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804c9522731ada448abce743c44dbce3
+      internalID: -1728135053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_17
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 970
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf63f372720b174db84884ed8688618
+      internalID: 1572926278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_18
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 953
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe03788d298fba41a4d7966e84b459b
+      internalID: 1699159902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_19
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 945
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f280960c358c34c8683f6b7d1496c4
+      internalID: 295272301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_20
+      rect:
+        serializedVersion: 2
+        x: 4970
+        y: 933
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2524cef37a57424ebb3efca36d8aef7
+      internalID: 1098071216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_21
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 817
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d265f03f369955447b5422157dc57b52
+      internalID: 1331163206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_22
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 778
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c226136f86d8714eb8e5701d6bddbaa
+      internalID: -2085219975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_23
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 761
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd7963a3c22bc6409c0c2ae5cab6e80
+      internalID: -1080248917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_24
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 761
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0213a3bec783cc438e67fcaeb0bc233
+      internalID: -71191352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_25
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 628
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2621e65ccb5e211429efc3cfac5ffed5
+      internalID: 502359206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_26
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 586
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27b37878ba2e704fa9912527605e9f6
+      internalID: -1453805673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_27
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 564
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab3152a63fdcb9488059a3f3261d758
+      internalID: 1004841961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_28
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de54d6e3bf8213b448279af258bc763e
+      internalID: -273170061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_29
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 331
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1d726864f0aee48aa4a84a7338323c
+      internalID: 935852674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_30
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 217
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94598d9d7bdbb44fbd0da38c8154e5a
+      internalID: -2068976487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_31
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 211
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f19df350abd224fb1a3f8b4175b082
+      internalID: 1936531396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_32
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 195
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2918dd5bb3b07542b4b7e1048325e4b
+      internalID: -2135663877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_33
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 189
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1d3beeee3b61441a283b1457b655e5
+      internalID: -522841313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_34
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fe3a94f9dd28d43a1a3190f67c28b0
+      internalID: 2048492236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_35
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 95
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d9fac0c56a5247aa28daada0a62e3
+      internalID: 918482313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba doradada para app vectorial_36
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 78
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cac27c18e9e63e40850910e224d7378
+      internalID: -961557388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Alba doradada para app vectorial_19: 295272301
+      Alba doradada para app vectorial_15: -1992414315
+      Alba doradada para app vectorial_17: 1572926278
+      Alba doradada para app vectorial_24: -71191352
+      Alba doradada para app vectorial_30: -2068976487
+      Alba doradada para app vectorial_34: 2048492236
+      Alba doradada para app vectorial_35: 918482313
+      Alba doradada para app vectorial_21: 1331163206
+      Alba doradada para app vectorial_32: -2135663877
+      Alba doradada para app vectorial_4: 1036189374
+      Alba doradada para app vectorial_9: 489366269
+      Alba doradada para app vectorial_0: 819636901
+      Alba doradada para app vectorial_23: -1080248917
+      Alba doradada para app vectorial_13: 895626960
+      Alba doradada para app vectorial_16: -1728135053
+      Alba doradada para app vectorial_7: 1436220061
+      Alba doradada para app vectorial_31: 1936531396
+      Alba doradada para app vectorial_10: -45938061
+      Alba doradada para app vectorial_2: -701267453
+      Alba doradada para app vectorial_8: 2043279240
+      Alba doradada para app vectorial_25: 502359206
+      Alba doradada para app vectorial_11: 371539550
+      Alba doradada para app vectorial_18: 1699159902
+      Alba doradada para app vectorial_5: 1800448839
+      Alba doradada para app vectorial_28: -273170061
+      Alba doradada para app vectorial_6: 2105190883
+      Alba doradada para app vectorial_27: 1004841961
+      Alba doradada para app vectorial_12: 591558655
+      Alba doradada para app vectorial_22: -2085219975
+      Alba doradada para app vectorial_3: 324399006
+      Alba doradada para app vectorial_1: 1224283677
+      Alba doradada para app vectorial_20: 1098071216
+      Alba doradada para app vectorial_29: 935852674
+      Alba doradada para app vectorial_33: -522841313
+      Alba doradada para app vectorial_36: -961557388
+      Alba doradada para app vectorial_14: -1126775298
+      Alba doradada para app vectorial_26: -1453805673
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

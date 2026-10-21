@@ -1,0 +1,4393 @@
+fileFormatVersion: 2
+guid: 93ed5f1609b31e24e8617903d809f2e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recurso 200@4x_0
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 984
+        width: 799
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e87264d2b34d84999fa6eab67b58e7
+      internalID: -170420034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_1
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 1782
+        width: 109
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf1dfd118d2a6646a8742656f4f4a91
+      internalID: -2124325080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_2
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 1782
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a9ef025478f604aa4bfc9a069af5f0
+      internalID: -746949514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_3
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 1776
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5522c3b02ae813d4fafdaa74f85344f1
+      internalID: -1960695017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_4
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1776
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd3fd6681d6dfd4ab09b3cecd44f7d9
+      internalID: 1634259156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_5
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1746
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cf7009e1fd4594b9b2f966af00f0a7
+      internalID: 697125406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_6
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 1758
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525b6d5df924c5e4eb40056ce3778fa8
+      internalID: 792817222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_7
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 1758
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bfed1aae02e7c4f976201c7bad33f1
+      internalID: 286113751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_8
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1740
+        width: 56
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9865cec23bbffc7488bc78864c6687e5
+      internalID: 1314746378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_9
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1722
+        width: 73
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f385add88db7ef409fff862c6e70e64
+      internalID: -540195317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_10
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1672
+        width: 145
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82165ba547452964287b55135e387f4d
+      internalID: 541225107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_11
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1722
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b581b56e3b8c54341b503f11c3920152
+      internalID: -1058997483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_12
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1728
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e769d5d58bf2959448a5d37cdc9da2fc
+      internalID: -58791657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_13
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 878
+        width: 881
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fa09fc381bd6c4cbddda18ae3c564b
+      internalID: 1573300701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_14
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1734
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d786cc40c3641146a96e408e66252b5
+      internalID: -1219337468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_15
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1728
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102e40382565d394caef0d07bb3c0cc9
+      internalID: -1404619960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_16
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1728
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c53eed601ed3284892467fdc0c86043
+      internalID: -1796987766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_17
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1014
+        width: 629
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755cd5af48397704590e91f85e762fa5
+      internalID: 2069941723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_18
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1662
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10885d15cee27a4eafc5b939d288298
+      internalID: 241508373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_19
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1722
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1830138d707a56743ad10f29a47dc872
+      internalID: 1967293031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1626
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d984247bd6ff874fbaaf5d9406326fb
+      internalID: 1932550044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1608
+        width: 152
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f823e22e7abd5c4eb32d25108d94ded
+      internalID: -1528128432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_22
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 951
+        width: 683
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b91c0b1390f51b478975b380468bda2
+      internalID: -1252184344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1620
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba0e87c9c2494749afffb3dc1116d8e
+      internalID: -1451288428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1614
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b86d72de889da4f8ff8d868bdefdd3
+      internalID: -669343136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946
+        width: 656
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638157398e219544bbbe2edfaf483861
+      internalID: -1768090405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_26
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1602
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725bc6b50ab638f4e808ae5034827590
+      internalID: -675221730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1590
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0159583c2d9237419c8b61e8c011c07
+      internalID: 233778387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_28
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1196
+        width: 81
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2187e975bdd24f4d922f8aed596622e
+      internalID: 762570851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_29
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1578
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52b98434f034a541892888625a2b677
+      internalID: 705711428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_30
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1572
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791da0b95195f65458178222c1aa651f
+      internalID: -28881445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_31
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1566
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c625e0871d4a20b45a257b6295b7c5d0
+      internalID: 986983333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_32
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1560
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7019615f9adf17e4aa12fd9e42f6fa8a
+      internalID: 1793242308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_33
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1368
+        width: 66
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76467f184f344df45b927b7c9ce04dc8
+      internalID: -1751878537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_34
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1141
+        width: 64
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5440afb71a249468c4f67493d72d4c
+      internalID: -552607704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_35
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 1464
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626d2292957cc27498ff7eca5a164376
+      internalID: 1565369087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_36
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 1476
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d2f89d50040f842aa3a2ef08c9ca18
+      internalID: -1945275753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_37
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1392
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8504cd08868e0d14fac66cff9562d5b1
+      internalID: 889106090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_38
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1356
+        width: 58
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007ca7ec80f47db49b0c2b10f4eb1a64
+      internalID: -721114542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_39
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1446
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6654b7a16f44f74c93a3304e0e72491
+      internalID: 1239757093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_40
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 1422
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ff2621e5764ca4f9c4c2ae92f5c752
+      internalID: -24870513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_41
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 1392
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d45c8d5d7fb4b468b626a5f0f06608
+      internalID: -307383348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_42
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1374
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552f7c3704e8ceb48956267b01dee9ea
+      internalID: -2035726319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_43
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 1344
+        width: 6
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5dc5a6864b6ae438120e500192f27d
+      internalID: -1751238077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_44
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1326
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a427120834850246bc40917dfda8f5e
+      internalID: 1557090357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_45
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1198
+        width: 9
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a534f3b0e024f549813cc0134d3fda4
+      internalID: 73582090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_46
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 1246
+        width: 6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f659ba9476e49a94eb5871eb9536deb0
+      internalID: 1675417883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_47
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 1216
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d199c6513ec814d836ed08c79fdf1b
+      internalID: -93101711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_48
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1130
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3f6f56da7d0af4fbfa8eae452ef4d9
+      internalID: -298777619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_49
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1135
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63e7116ccab8684686188f76978fad7
+      internalID: -1975844133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_50
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 1130
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b87e675894b3147bcf9bb0c2f2331b
+      internalID: -1464133051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_51
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 1130
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7bf5b7c80e91b489c93709ce8052e7
+      internalID: 544004491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_52
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1002
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eea5d8e17e0ad4896b7af9cbf02647
+      internalID: 521411149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_53
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1003
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf9a06be766e2f418df28a5da0e53eb
+      internalID: 1212183791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_54
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 920
+        width: 105
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f2fa5ce69fa16469600580d94f8fd2
+      internalID: 441410867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_55
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 983
+        width: 81
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9a4912318f1244887b2069785f0d23
+      internalID: -908797047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_56
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 931
+        width: 65
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0333b0ea6b27ae4f8539a903e921ce8
+      internalID: 800550069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_57
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 936
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97bd8b22687da44f927a439d8eb3793
+      internalID: -505914878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_58
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 930
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b3a2e27f467f24d872b8cf79e761f3
+      internalID: 211929343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_59
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 876
+        width: 107
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fae7ee066ca034dba86267cab06281
+      internalID: 464208690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_60
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 924
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c0b4a9dba70d34498a75aceb204f7e
+      internalID: 543358647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_61
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 915
+        width: 138
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07b6726fe6ab44bb19b5d0817477fd
+      internalID: -826389021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_62
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 918
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77f52fbfd620d542a6de4a76a58934d
+      internalID: -1445897283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_63
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 876
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39f6bddb5d65f54a8d78c32cea25afd
+      internalID: 699584091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_64
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 864
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a446b8201db17a48815fb958fb6a453
+      internalID: 1229943860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_65
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 864
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb19c2a054972442a557dd0d4a86c9d
+      internalID: -1048118402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_66
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 852
+        width: 102
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4497a90c8a0021648a7c7c04398c522f
+      internalID: -32186329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_67
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 858
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b4c4347670e2c49aa707b6c9224cb2
+      internalID: 700274987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_68
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 858
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2334ef86486a6814d986eb9d581d759b
+      internalID: -1693434838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_69
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 852
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0944fa8c7440f9447856f46fca276421
+      internalID: 952779152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_70
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 852
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4528ac06f69248946a827afd63dc7f3b
+      internalID: 1995563459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_71
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 852
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc49fd55a6257b478770e6c33cbc302
+      internalID: 76338613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_72
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 840
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb458f87db912f349b045515bd48dc52
+      internalID: 1822022389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_73
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 840
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf8e851d4307e9408f427241dc01be4
+      internalID: 1493404403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_74
+      rect:
+        serializedVersion: 2
+        x: 3987
+        y: 847
+        width: 132
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee1efd4a48c16f489c251dcb158d1c4
+      internalID: -1937385337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_75
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 840
+        width: 114
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5883828bc7c9b44b71829bce3f3faa
+      internalID: -1614108820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_76
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 840
+        width: 114
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eca5d4f50350649975cc57cde2e7af
+      internalID: -663156097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_77
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 834
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa43718708309840a89362f2e505f01
+      internalID: -1278430718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_78
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 834
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22af244aafef9e344ad3525e9bf10816
+      internalID: -159461331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_79
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 792
+        width: 118
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a70975c3af0204cb68745fca55580c
+      internalID: 1300915759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_80
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 828
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d9c39ada00fd244b0d7bef5970c3f1
+      internalID: 1401428417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_81
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 834
+        width: 97
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b5f885f5b3d1c45bc96aeee4cb794e
+      internalID: 1063138749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_82
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 834
+        width: 96
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01762d2c09382e4a8b84dc9bb3ef0f9
+      internalID: -552560014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_83
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 834
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ba5051583fe0e43855f84e31848c60
+      internalID: 1003456357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_84
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 834
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163496a6958e85d46862b5a4a86f3da0
+      internalID: -2139702992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 828
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ee6e1bb583336429159ad63bb8af61
+      internalID: -647437290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_86
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 822
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace47a1831d5ec24aa646de8eb05d25f
+      internalID: -1929202955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_87
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 828
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b18f9ce976a8e48b767225453ec532
+      internalID: 2114023827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_88
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 828
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b07fc873c297aa40b8099081d418eec
+      internalID: -699747561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_89
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 822
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b1c3f3d2e22974eb72054de27fc75b
+      internalID: -455062856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_90
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 828
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1567b1da253243409b5b5d14046a842
+      internalID: 1099307832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_91
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 822
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5007fea208a5e43469ae891901ca276a
+      internalID: 862372879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_92
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 816
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad6fdf754d90994abb1bafa3007750c
+      internalID: -1469942877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 816
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba88b3fe31b26eb42b0c0c4932289c66
+      internalID: -981005435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_94
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 816
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2311c60fa2978e8438d8b41d731a5cf5
+      internalID: 1842911216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_95
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 786
+        width: 95
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f278e7ea5d7a234e988898c96b0928e
+      internalID: 2017455124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_96
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 810
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b12eb298184b9c4ea46019e1b4e1549
+      internalID: 1959963077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_97
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 822
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ae0474abfd4747b48dd848b38e26f
+      internalID: -613657958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_98
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 0
+        width: 829
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1445efbb551bf9f43a849d21fd190b3a
+      internalID: -1554034688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_99
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 774
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef1a0ec3bbfb10479fcf1e9cea3ea60
+      internalID: -1322814190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_100
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 810
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d450ab776b72048b011d9251f5d8a0
+      internalID: 1996053292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_101
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 816
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e93a140afecd39429f9b832ec7c59c6
+      internalID: -1417813488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 656
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d49c8348bc36a4398c8a9140e09604
+      internalID: 1088430615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_103
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 158
+        width: 659
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0185df336e33a3a408f7d136d6f4de80
+      internalID: -565752245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_104
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 810
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5543fddae955db345aa825c1b9d8f7a3
+      internalID: -1494467211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_105
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 768
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b103dad2341f226408e9e1c0ccc627dc
+      internalID: -1646080336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_106
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 150
+        width: 658
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174d7d461f7034b4eb652c4742505b65
+      internalID: -1251518114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_107
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 804
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66257dbffa6f1d949b895bcb470d8856
+      internalID: -527252144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_108
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 150
+        width: 657
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cd64c255b6d6b42ad863be6e095ced
+      internalID: 1745707252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_109
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 792
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ff70bc8b6a00d4485549b9df664da3
+      internalID: 189269078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_110
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 618
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa0917304317c544b03ef2e8ddce191
+      internalID: 735778063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_111
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 606
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f437304afeb83494bbb5b33947440022
+      internalID: 1891265263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_112
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 624
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a9a1c844212f429074009dc080bd0
+      internalID: 1603869979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_113
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 606
+        width: 138
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93720e56b4450c448b9392e09155958a
+      internalID: 1886160143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_114
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 594
+        width: 66
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91df1c539e6abb43b9cecf502544809
+      internalID: 646881463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_115
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 612
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974632230ff050c4098038a0fa9c439d
+      internalID: 51804770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_116
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 540
+        width: 65
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d159accfc17dd824083991b9f8f0ae11
+      internalID: 138139682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_117
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 588
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c5b4dc6e96ebd4391e37e0a6619204
+      internalID: 662096666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_118
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 612
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fcb8df0b0d9fc49baa1b3ce6684122
+      internalID: 854458516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_119
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 588
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d5e52dc1b8f44eb4d404cb6f6f379
+      internalID: 2145550544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_120
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 570
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef7138c212b95049bf7e992a208c2f2
+      internalID: 852447515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_121
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 594
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e740febb69fd8e4458bf834e5acf2f54
+      internalID: 1585745684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_122
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 552
+        width: 17
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6d7dcdc6786e84c89765fb086a350e
+      internalID: 1592090671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_123
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 582
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cc5d0aba4effd4cb5b2db78f33b60d
+      internalID: -1662913177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_124
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 564
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719a1f41d075465439fa395c956d9f71
+      internalID: -1532903168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_125
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 576
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8689df84d0a1245bd9c8d4a5cf8f27
+      internalID: -844110029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_126
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 438
+        width: 21
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d54eb8ac2fdabf4db19378d9df2afb5
+      internalID: 425671863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_127
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 534
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5741d6472fdb9341b05e2b98b84604a
+      internalID: -1582317128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_128
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 570
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3b7017a0b1d7f409c7266e4133f86c
+      internalID: 34343747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_129
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 558
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c7c86ab14e88f4999c51cdf4a66893
+      internalID: -1115023365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_130
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 442
+        width: 9
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4ade3439d867f42bfcbb09566f7e50
+      internalID: 727974852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_131
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 540
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44b70b0f5a2f93488a56fb5240171cc
+      internalID: 490647610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_132
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 552
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553bb929ebdcfb1449d3f4b170e14582
+      internalID: -1388239924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_133
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 436
+        width: 4
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e477232a9616aff4bbeb25deec0f624e
+      internalID: -797260602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_134
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 504
+        width: 6
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812cd36637b12de4f902a70386c65ef1
+      internalID: 1529816824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_135
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 516
+        width: 5
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d05be1bd12884648bd8ec292e68cf7d
+      internalID: 2076018480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_136
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 429
+        width: 4
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a437ae15759c4c9321a24896193e9
+      internalID: -2129933338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_137
+      rect:
+        serializedVersion: 2
+        x: 4074
+        y: 516
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c34c67924bbf442aa2349bddca06b8
+      internalID: -1967939933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_138
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 410
+        width: 8
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d56c0028781944e9c67cb6b7ca5b78
+      internalID: 905174317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_139
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 492
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609305188d7f6924e9b4ecf37652daae
+      internalID: -1134752921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_140
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 388
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa804542c03c84caa6e7ff14abd64a
+      internalID: -1121436712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_141
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 409
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceeca8fa48d8504f83baff6cf7929e7
+      internalID: -1992432593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_142
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 406
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7b6523c9bc33548b47bf0f8e1ad2aa
+      internalID: 1556819408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_143
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 385
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abf87c6028cc554fa9a28a550a123eb
+      internalID: -958936501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_144
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 399
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4933aace559dbe40b8ea5681deedf0a
+      internalID: -2128227548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_145
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 425
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99beebd815d529a42936414e3e0571a3
+      internalID: -1434141827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_146
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 386
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1fd7991f971f9479c6ee3de3a45dae
+      internalID: -1121195646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_147
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 349
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3a617d3092ef84c920de25ec99178c
+      internalID: 284628443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_148
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 404
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d837caf89e7434eb9d0600e6804f3c
+      internalID: -2045417543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_149
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 399
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c933cedab41049bb86566b6fa95a1
+      internalID: 1310970712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_150
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 399
+        width: 7
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3866087d1afd8c5499fe61e4496cda5c
+      internalID: -1720748417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_151
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 355
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f02bf4bdddd83541805a2cbe81d3235
+      internalID: 758858723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_152
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 368
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f985362e363711418844048fc0716ee
+      internalID: -2111977719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_153
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 379
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7284bc5534da649ae4f8e4e6f35cb6
+      internalID: -431514583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_154
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 368
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db24fb38974c3a54595b9a9713fb413f
+      internalID: 1921326144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_155
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 361
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2305b95c818855b489a5310f749228e7
+      internalID: -393452275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_156
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 342
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a9b5c0fcd598a42a9a374bab48d609
+      internalID: 2040906464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_157
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 331
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c8a11478555c249a63dfd1568b4797
+      internalID: -1245179985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_158
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 283
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec08b3ff8ba16f45b42bb0dd53bc2bd
+      internalID: 1054485260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_159
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 349
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bacecba5b29a73469b92619007e8444
+      internalID: -662867949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_160
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 265
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535d0793a03c8a940b36113d4031f735
+      internalID: -1155487225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_161
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 301
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2e7dfafb2972940bd2b3b6d904381a
+      internalID: 1734279617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_162
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 337
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d32141e82cf98459dac6b9d3b02bc5
+      internalID: 144726342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_163
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 313
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3228ecbc79095694db0870c07da186a1
+      internalID: 480789790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_164
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 289
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6fd0ccd10980c45bb430feeb691892
+      internalID: 621612545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_165
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 313
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647d864624c4884a9cdc3af6facd72a
+      internalID: 22592187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_166
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 272
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bdda4e9b9aa424c9456c8b2e234dd5
+      internalID: 1854836922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_167
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 199
+        width: 48
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb6c8c773be48840a3541d3cbc5f0a7
+      internalID: -1920179497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_168
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 242
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf193569fe99a6040b6607cb190d6f9b
+      internalID: 1037679665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_169
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 150
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d632bc895cb1abb48afbf02e752d4e0d
+      internalID: 1181199411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_170
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 150
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8222dae3aeec4144cb2df57597923938
+      internalID: -1222475657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_171
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 157
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5997cde4c0f4ca49a66325cae045098
+      internalID: -689974777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_172
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 119
+        width: 217
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4684cddc3a4b52c4db165a1d33edfb0f
+      internalID: 1502678989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_173
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 144
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a4db274153d7498cf4b350d086088
+      internalID: 842702883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_174
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 145
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d6878cf43baf048ae7be5825f21ec4
+      internalID: 1758944449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_175
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 138
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a39ba14e2c3074c940fb21354699ed
+      internalID: -168988662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_176
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 138
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f759cff97320b4a932e76d65a8f6f9
+      internalID: -1546173928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_177
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 145
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a00ff22dae8c9b4e9b728a13cb37939
+      internalID: -258528241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_178
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 139
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024bc07a6d627f24f9af4156d0670eed
+      internalID: 1232525152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_179
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 138
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7652450645c4f3d44ab2959227d0347d
+      internalID: 1305913001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_180
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 132
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08794aaced611c64db335de2ba9aaac6
+      internalID: 629315604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_181
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 127
+        width: 139
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27ebd21fcea77b4e88c6d2ac79965e3
+      internalID: -410403161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_182
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 133
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0325dca9e36256e429550c680f83128a
+      internalID: -421093660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_183
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 132
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6466e20d3c22a2946a4670243f473394
+      internalID: -601029392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_184
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 133
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ea99b6fe7c328469a847a64d0a6934
+      internalID: 1479200293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_185
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 132
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5583e2a912cdde84a9ada57296c39f8f
+      internalID: -1523538741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_186
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 126
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b6f8997992ed343b3dbf09453b6fdc
+      internalID: -848728645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_187
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 127
+        width: 110
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e25f56d71560647b61219f878466c5
+      internalID: 775367029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_188
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 127
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8b52f0e9330b741ad9ef8bbea89e5c
+      internalID: -748213135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_189
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 126
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fdacce7b2c7a54d95e3aeb3539ce9b
+      internalID: -700852833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_190
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 121
+        width: 37
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a810c04fb7b33094f9ab342d72b7bf98
+      internalID: 1599780309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_191
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 120
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe6a3dfd7ad4384898b29cf373b9d56
+      internalID: 474296263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 200@4x_192
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 119
+        width: 67
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8ff4b0900d6224cac787158c1b1f06
+      internalID: -332763909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Recurso 200@4x_163: 480789790
+      Recurso 200@4x_122: 1592090671
+      Recurso 200@4x_126: 425671863
+      Recurso 200@4x_97: -613657958
+      Recurso 200@4x_53: 1212183791
+      Recurso 200@4x_192: -332763909
+      Recurso 200@4x_3: -1960695017
+      Recurso 200@4x_18: 241508373
+      Recurso 200@4x_178: 1232525152
+      Recurso 200@4x_150: -1720748417
+      Recurso 200@4x_42: -2035726319
+      Recurso 200@4x_51: 544004491
+      Recurso 200@4x_167: -1920179497
+      Recurso 200@4x_33: -1751878537
+      Recurso 200@4x_85: -647437290
+      Recurso 200@4x_21: -1528128432
+      Recurso 200@4x_44: 1557090357
+      Recurso 200@4x_70: 1995563459
+      Recurso 200@4x_13: 1573300701
+      Recurso 200@4x_136: -2129933338
+      Recurso 200@4x_48: -298777619
+      Recurso 200@4x_60: 543358647
+      Recurso 200@4x_31: 986983333
+      Recurso 200@4x_7: 286113751
+      Recurso 200@4x_11: -1058997483
+      Recurso 200@4x_52: 521411149
+      Recurso 200@4x_64: 1229943860
+      Recurso 200@4x_182: -421093660
+      Recurso 200@4x_121: 1585745684
+      Recurso 200@4x_111: 1891265263
+      Recurso 200@4x_2: -746949514
+      Recurso 200@4x_165: 22592187
+      Recurso 200@4x_95: 2017455124
+      Recurso 200@4x_32: 1793242308
+      Recurso 200@4x_4: 1634259156
+      Recurso 200@4x_66: -32186329
+      Recurso 200@4x_92: -1469942877
+      Recurso 200@4x_176: -1546173928
+      Recurso 200@4x_117: 662096666
+      Recurso 200@4x_108: 1745707252
+      Recurso 200@4x_144: -2128227548
+      Recurso 200@4x_49: -1975844133
+      Recurso 200@4x_82: -552560014
+      Recurso 200@4x_172: 1502678989
+      Recurso 200@4x_162: 144726342
+      Recurso 200@4x_88: -699747561
+      Recurso 200@4x_116: 138139682
+      Recurso 200@4x_75: -1614108820
+      Recurso 200@4x_105: -1646080336
+      Recurso 200@4x_135: 2076018480
+      Recurso 200@4x_119: 2145550544
+      Recurso 200@4x_138: 905174317
+      Recurso 200@4x_128: 34343747
+      Recurso 200@4x_47: -93101711
+      Recurso 200@4x_69: 952779152
+      Recurso 200@4x_139: -1134752921
+      Recurso 200@4x_63: 699584091
+      Recurso 200@4x_112: 1603869979
+      Recurso 200@4x_133: -797260602
+      Recurso 200@4x_19: 1967293031
+      Recurso 200@4x_184: 1479200293
+      Recurso 200@4x_137: -1967939933
+      Recurso 200@4x_17: 2069941723
+      Recurso 200@4x_40: -24870513
+      Recurso 200@4x_80: 1401428417
+      Recurso 200@4x_50: -1464133051
+      Recurso 200@4x_173: 842702883
+      Recurso 200@4x_164: 621612545
+      Recurso 200@4x_58: 211929343
+      Recurso 200@4x_166: 1854836922
+      Recurso 200@4x_86: -1929202955
+      Recurso 200@4x_9: -540195317
+      Recurso 200@4x_181: -410403161
+      Recurso 200@4x_77: -1278430718
+      Recurso 200@4x_1: -2124325080
+      Recurso 200@4x_153: -431514583
+      Recurso 200@4x_158: 1054485260
+      Recurso 200@4x_132: -1388239924
+      Recurso 200@4x_5: 697125406
+      Recurso 200@4x_145: -1434141827
+      Recurso 200@4x_146: -1121195646
+      Recurso 200@4x_0: -170420034
+      Recurso 200@4x_89: -455062856
+      Recurso 200@4x_161: 1734279617
+      Recurso 200@4x_12: -58791657
+      Recurso 200@4x_94: 1842911216
+      Recurso 200@4x_114: 646881463
+      Recurso 200@4x_123: -1662913177
+      Recurso 200@4x_81: 1063138749
+      Recurso 200@4x_185: -1523538741
+      Recurso 200@4x_159: -662867949
+      Recurso 200@4x_46: 1675417883
+      Recurso 200@4x_76: -663156097
+      Recurso 200@4x_189: -700852833
+      Recurso 200@4x_107: -527252144
+      Recurso 200@4x_96: 1959963077
+      Recurso 200@4x_154: 1921326144
+      Recurso 200@4x_56: 800550069
+      Recurso 200@4x_10: 541225107
+      Recurso 200@4x_180: 629315604
+      Recurso 200@4x_143: -958936501
+      Recurso 200@4x_171: -689974777
+      Recurso 200@4x_183: -601029392
+      Recurso 200@4x_191: 474296263
+      Recurso 200@4x_129: -1115023365
+      Recurso 200@4x_54: 441410867
+      Recurso 200@4x_35: 1565369087
+      Recurso 200@4x_6: 792817222
+      Recurso 200@4x_30: -28881445
+      Recurso 200@4x_38: -721114542
+      Recurso 200@4x_134: 1529816824
+      Recurso 200@4x_156: 2040906464
+      Recurso 200@4x_37: 889106090
+      Recurso 200@4x_190: 1599780309
+      Recurso 200@4x_25: -1768090405
+      Recurso 200@4x_79: 1300915759
+      Recurso 200@4x_24: -669343136
+      Recurso 200@4x_103: -565752245
+      Recurso 200@4x_175: -168988662
+      Recurso 200@4x_110: 735778063
+      Recurso 200@4x_174: 1758944449
+      Recurso 200@4x_101: -1417813488
+      Recurso 200@4x_169: 1181199411
+      Recurso 200@4x_8: 1314746378
+      Recurso 200@4x_187: 775367029
+      Recurso 200@4x_16: -1796987766
+      Recurso 200@4x_43: -1751238077
+      Recurso 200@4x_120: 852447515
+      Recurso 200@4x_109: 189269078
+      Recurso 200@4x_155: -393452275
+      Recurso 200@4x_106: -1251518114
+      Recurso 200@4x_87: 2114023827
+      Recurso 200@4x_170: -1222475657
+      Recurso 200@4x_14: -1219337468
+      Recurso 200@4x_98: -1554034688
+      Recurso 200@4x_55: -908797047
+      Recurso 200@4x_124: -1532903168
+      Recurso 200@4x_59: 464208690
+      Recurso 200@4x_168: 1037679665
+      Recurso 200@4x_27: 233778387
+      Recurso 200@4x_147: 284628443
+      Recurso 200@4x_62: -1445897283
+      Recurso 200@4x_102: 1088430615
+      Recurso 200@4x_141: -1992432593
+      Recurso 200@4x_84: -2139702992
+      Recurso 200@4x_115: 51804770
+      Recurso 200@4x_149: 1310970712
+      Recurso 200@4x_152: -2111977719
+      Recurso 200@4x_28: 762570851
+      Recurso 200@4x_29: 705711428
+      Recurso 200@4x_151: 758858723
+      Recurso 200@4x_127: -1582317128
+      Recurso 200@4x_118: 854458516
+      Recurso 200@4x_177: -258528241
+      Recurso 200@4x_57: -505914878
+      Recurso 200@4x_188: -748213135
+      Recurso 200@4x_91: 862372879
+      Recurso 200@4x_20: 1932550044
+      Recurso 200@4x_157: -1245179985
+      Recurso 200@4x_71: 76338613
+      Recurso 200@4x_90: 1099307832
+      Recurso 200@4x_67: 700274987
+      Recurso 200@4x_15: -1404619960
+      Recurso 200@4x_45: 73582090
+      Recurso 200@4x_140: -1121436712
+      Recurso 200@4x_125: -844110029
+      Recurso 200@4x_93: -981005435
+      Recurso 200@4x_113: 1886160143
+      Recurso 200@4x_131: 490647610
+      Recurso 200@4x_72: 1822022389
+      Recurso 200@4x_73: 1493404403
+      Recurso 200@4x_99: -1322814190
+      Recurso 200@4x_39: 1239757093
+      Recurso 200@4x_100: 1996053292
+      Recurso 200@4x_34: -552607704
+      Recurso 200@4x_65: -1048118402
+      Recurso 200@4x_74: -1937385337
+      Recurso 200@4x_36: -1945275753
+      Recurso 200@4x_23: -1451288428
+      Recurso 200@4x_68: -1693434838
+      Recurso 200@4x_104: -1494467211
+      Recurso 200@4x_179: 1305913001
+      Recurso 200@4x_130: 727974852
+      Recurso 200@4x_186: -848728645
+      Recurso 200@4x_148: -2045417543
+      Recurso 200@4x_61: -826389021
+      Recurso 200@4x_26: -675221730
+      Recurso 200@4x_78: -159461331
+      Recurso 200@4x_83: 1003456357
+      Recurso 200@4x_142: 1556819408
+      Recurso 200@4x_160: -1155487225
+      Recurso 200@4x_41: -307383348
+      Recurso 200@4x_22: -1252184344
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

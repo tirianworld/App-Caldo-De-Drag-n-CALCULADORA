@@ -1,0 +1,1234 @@
+fileFormatVersion: 2
+guid: 8332edfb2f3709c4fa3757ce58a610d2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1080
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recurso 75@4x_0
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 7394
+        width: 1281
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dfe493eabf4404e919030a4d7ef397
+      internalID: -67458157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_1
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 7390
+        width: 1084
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a987186b3967c3a43b8eed68885b6c4f
+      internalID: -1373291794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_2
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 6897
+        width: 1333
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5153e16c9365944a941df06285a6977
+      internalID: 1438403783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 6818
+        width: 1163
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb60606ed0377544a3504d453735fce
+      internalID: -1894073755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_4
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 6494
+        width: 1313
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771705ed4f79a574291886ad6f78ed40
+      internalID: -1365127525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_5
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 6705
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51611f004e7043b4bb093d292356c992
+      internalID: 53108336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_6
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 6355
+        width: 1083
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a1f972b370ca943b71089fd799e7ea
+      internalID: -787001052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_7
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 6017
+        width: 1321
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff982a1919e06994ea465d961d08a957
+      internalID: 1015314453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_8
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 6344
+        width: 1084
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3be61b5951c9046afe854d0a4fed0c
+      internalID: -1471361245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_9
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 6009
+        width: 1084
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf07c4466cb9504ea864235ac3ccc6c
+      internalID: -600680741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_10
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 4600
+        width: 924
+        height: 1364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fc9951f78017649944dd34e5ca8877
+      internalID: -1716910002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_11
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 5960
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ce9d107e8a4c94b9d53f3cd7f5305e
+      internalID: -563607322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_12
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 5915
+        width: 1084
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977213d1a48ff804c872cd315520c75c
+      internalID: 964053430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_13
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 5922
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5087793b8a2cd26459163394d38c7376
+      internalID: -1308516995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_14
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 5588
+        width: 1309
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd27c752d21c4734596512a8fcbd9d21
+      internalID: -822060553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_15
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 5915
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729145938ccef1c48906960408e01567
+      internalID: -1032588349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_16
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 5915
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91ff4b4a2b3a4b4f99b78dcf0736c2e
+      internalID: 2061962962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_17
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 5780
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc54e2fcaa753d4b91ed3f3e6f18bb8
+      internalID: -1777124503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_18
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 5749
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7139183952a55d4b8b54dbca1b8e34a
+      internalID: 576854927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4547
+        width: 2712
+        height: 918
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb88a8c1331a9da439c915f979ac2788
+      internalID: -1626051315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_20
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 4579
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b876a410417a04e9f9ad2c738c3d41
+      internalID: 627333020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 4037
+        width: 1314
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c01a48bcdce4d4bb83d46850f0a23c
+      internalID: -1522509847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_22
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 4038
+        width: 1293
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e709a7938b7c9264982b37bdf24dc88a
+      internalID: -1492270292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3712
+        width: 1188
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848d940dda0a4a34b98d62d18239a97a
+      internalID: 1436364474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_25
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 3712
+        width: 1295
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473b43ac204ced341b90380ff00a7583
+      internalID: 1761183516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_26
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3383
+        width: 1213
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dfe00ec0754c24eaa9c5a19440f80e
+      internalID: -1723107172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_27
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 3385
+        width: 1278
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9113c488f2ce08c438944bd57ba8cd51
+      internalID: -666705702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_28
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 2975
+        width: 436
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082df4e6c8536f24cb26bc5b99a86462
+      internalID: 558294073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3050
+        width: 1223
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897bcca2af9b6f04d9b882d5d7d51109
+      internalID: 919057382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_30
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 3046
+        width: 1300
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c65a3bc78817c4c8b14c6c447c4c37
+      internalID: 1003491026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_31
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 3292
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695233da78c4f7b448571ab732c17a4d
+      internalID: -1677077778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_32
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 3251
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795d7a3035fc5447910e0cf2f65fea9
+      internalID: 1175494586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_33
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2708
+        width: 1210
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94be50db23c40a74c9077adbf62246f7
+      internalID: 310021748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_34
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 2730
+        width: 1313
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc2e7b838e3c964bb9197fb9373ac71
+      internalID: -1422769034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_35
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 2867
+        width: 366
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50b50c64f60684459a17bc779012ee2
+      internalID: -1623408895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_36
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2350
+        width: 1206
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4f88de8635eca4799916a63864ab27
+      internalID: 1780265125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_37
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2551
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a392f31d64fe5fa478d53779a3276b14
+      internalID: 904877053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_38
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 2367
+        width: 1278
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def761328fa48e04d9947808c04e7db5
+      internalID: 1460943404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_42
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1992
+        width: 1182
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d175b4792f5a04dbf52a679bd6b93b
+      internalID: -589543970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_43
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 2011
+        width: 1288
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf23b4df3e0fca843b4bf44fd442986d
+      internalID: 1213163230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_46
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1639
+        width: 1202
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0adf30939a23394c8e2b29d3f9d94ff
+      internalID: 1339828757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_47
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1644
+        width: 453
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771ed3e2a10ab2a41a3f5d2dea6bfd03
+      internalID: -832807710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_48
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1661
+        width: 465
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d9d9ec780975d4f8961191c927738f
+      internalID: -1262967252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_49
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1915
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa9653eb968f764d9684a0c0c5b5d50
+      internalID: -834946706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_50
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1915
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba015b88381f4546861c576bfd056a1
+      internalID: 439970003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_51
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1915
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96ce50ee6aea2d42b7e90cf82d1b941
+      internalID: 1482246688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_54
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1851
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef31d2cd05a0ac24ca6f868d00af75b2
+      internalID: -645349782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_56
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 1351
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb985f96a5500f441818a16bff6eff41
+      internalID: -803912042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 75@4x_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4799
+        height: 1155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9307a0637c744db45bb255aeef724c67
+      internalID: -1210939075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Recurso 75@4x_28: 558294073
+      Recurso 75@4x_7: 1015314453
+      Recurso 75@4x_57: -1210939075
+      Recurso 75@4x_9: -600680741
+      Recurso 75@4x_10: -1716910002
+      Recurso 75@4x_15: -1032588349
+      Recurso 75@4x_31: -1677077778
+      Recurso 75@4x_25: 1761183516
+      Recurso 75@4x_54: -645349782
+      Recurso 75@4x_50: 439970003
+      Recurso 75@4x_21: -1522509847
+      Recurso 75@4x_48: -1262967252
+      Recurso 75@4x_14: -822060553
+      Recurso 75@4x_32: 1175494586
+      Recurso 75@4x_4: -1365127525
+      Recurso 75@4x_20: 627333020
+      Recurso 75@4x_0: -67458157
+      Recurso 75@4x_2: 1438403783
+      Recurso 75@4x_27: -666705702
+      Recurso 75@4x_47: -832807710
+      Recurso 75@4x_49: -834946706
+      Recurso 75@4x_23: 1095127979
+      Recurso 75@4x_53: -1028238360
+      Recurso 75@4x_5: 53108336
+      Recurso 75@4x_56: -803912042
+      Recurso 75@4x_33: 310021748
+      Recurso 75@4x_45: -1755287138
+      Recurso 75@4x_12: 964053430
+      Recurso 75@4x_46: 1339828757
+      Recurso 75@4x_19: -1626051315
+      Recurso 75@4x_36: 1780265125
+      Recurso 75@4x_29: 919057382
+      Recurso 75@4x_44: -430969598
+      Recurso 75@4x_26: -1723107172
+      Recurso 75@4x_42: -589543970
+      Recurso 75@4x_40: 1175375403
+      Recurso 75@4x_1: -1373291794
+      Recurso 75@4x_24: 1436364474
+      Recurso 75@4x_37: 904877053
+      Recurso 75@4x_43: 1213163230
+      Recurso 75@4x_34: -1422769034
+      Recurso 75@4x_16: 2061962962
+      Recurso 75@4x_35: -1623408895
+      Recurso 75@4x_30: 1003491026
+      Recurso 75@4x_22: -1492270292
+      Recurso 75@4x_39: 691943671
+      Recurso 75@4x_51: 1482246688
+      Recurso 75@4x_52: 1285282285
+      Recurso 75@4x_11: -563607322
+      Recurso 75@4x_55: -2083701469
+      Recurso 75@4x_8: -1471361245
+      Recurso 75@4x_3: -1894073755
+      Recurso 75@4x_13: -1308516995
+      Recurso 75@4x_38: 1460943404
+      Recurso 75@4x_6: -787001052
+      Recurso 75@4x_17: -1777124503
+      Recurso 75@4x_41: -1931352241
+      Recurso 75@4x_18: 576854927
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

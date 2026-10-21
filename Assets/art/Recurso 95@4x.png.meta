@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: d9836efa97386b74780511b92f64e21c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recurso 95@4x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 225
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19ded9dcfcced64bb2a33d7f6f21d40
+      internalID: 1479030877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 95@4x_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 10
+        width: 288
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0554f729d3e23b49bb7117d0a4f3f6d
+      internalID: 1010366578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 95@4x_5
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0
+        width: 265
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2435d61e9ea26bc4392599e879dd2768
+      internalID: -184660573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 95@4x_8
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 10
+        width: 300
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab10d1bc335c3c43b4c701c1a0b237f
+      internalID: -888979933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 95@4x_13
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 0
+        width: 286
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe275688f8e79645acd9832117da501
+      internalID: -2105420508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 95@4x_17
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 0
+        width: 277
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fc0b8d092f3724ba0f1a531a49b1fc
+      internalID: -2102225473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 95@4x_21
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 0
+        width: 284
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19e6264d8b98e54893eb78fb09e0847
+      internalID: 391962948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 95@4x_27
+      rect:
+        serializedVersion: 2
+        x: 4478
+        y: 3
+        width: 542
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72df61aa233131f4082ffbf05621b07e
+      internalID: -2106715180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 95@4x_29
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 3
+        width: 268
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501041e32f144c140b8cbb4ac918b712
+      internalID: 430295911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 95@4x_31
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 3
+        width: 285
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56c326a02591da49b919f724cd82ac9
+      internalID: 1558243109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Recurso 95@4x_28: -1944048256
+      Recurso 95@4x_72: -219944092
+      Recurso 95@4x_32: -342942390
+      Recurso 95@4x_97: -647357693
+      Recurso 95@4x_22: -559423257
+      Recurso 95@4x_114: -760524539
+      Recurso 95@4x_40: -608848561
+      Recurso 95@4x_62: -1754485511
+      Recurso 95@4x_5: -184660573
+      Recurso 95@4x_42: -1583599254
+      Recurso 95@4x_25: 653567968
+      Recurso 95@4x_47: 1680828806
+      Recurso 95@4x_71: -338242601
+      Recurso 95@4x_111: 845197409
+      Recurso 95@4x_102: -556394992
+      Recurso 95@4x_67: 1287929455
+      Recurso 95@4x_103: -1573134628
+      Recurso 95@4x_33: 1006450289
+      Recurso 95@4x_35: -2091077922
+      Recurso 95@4x_106: 1904601127
+      Recurso 95@4x_105: -296380209
+      Recurso 95@4x_70: 788117354
+      Recurso 95@4x_26: -1480217075
+      Recurso 95@4x_66: 1990680002
+      Recurso 95@4x_84: 1422689490
+      Recurso 95@4x_30: -308999512
+      Recurso 95@4x_36: -808698635
+      Recurso 95@4x_60: -2067029000
+      Recurso 95@4x_90: 1115502332
+      Recurso 95@4x_21: 391962948
+      Recurso 95@4x_43: -1044453472
+      Recurso 95@4x_87: 1272509917
+      Recurso 95@4x_19: 865491118
+      Recurso 95@4x_46: -2081049711
+      Recurso 95@4x_92: 1367401240
+      Recurso 95@4x_91: -1227292388
+      Recurso 95@4x_27: -2106715180
+      Recurso 95@4x_13: -2105420508
+      Recurso 95@4x_86: 137652944
+      Recurso 95@4x_4: -1911709454
+      Recurso 95@4x_1: 1194215485
+      Recurso 95@4x_96: 796772405
+      Recurso 95@4x_113: -879519716
+      Recurso 95@4x_83: 1715554795
+      Recurso 95@4x_23: -1131017205
+      Recurso 95@4x_64: 882621484
+      Recurso 95@4x_11: -682195742
+      Recurso 95@4x_3: -688053089
+      Recurso 95@4x_68: 1823968940
+      Recurso 95@4x_2: 1010366578
+      Recurso 95@4x_80: 1754804629
+      Recurso 95@4x_100: -2116958894
+      Recurso 95@4x_107: 1928188657
+      Recurso 95@4x_44: -496458965
+      Recurso 95@4x_24: -1942872771
+      Recurso 95@4x_38: -1263800968
+      Recurso 95@4x_56: 1438445798
+      Recurso 95@4x_53: -2033253192
+      Recurso 95@4x_16: 1061514303
+      Recurso 95@4x_54: -2107252642
+      Recurso 95@4x_50: 231703387
+      Recurso 95@4x_77: 1956834588
+      Recurso 95@4x_75: 915985068
+      Recurso 95@4x_58: 1991924561
+      Recurso 95@4x_101: -1261670814
+      Recurso 95@4x_20: -2048313866
+      Recurso 95@4x_65: -1005735028
+      Recurso 95@4x_76: -541736601
+      Recurso 95@4x_85: -112803513
+      Recurso 95@4x_89: -800275013
+      Recurso 95@4x_51: -285653464
+      Recurso 95@4x_94: 445021276
+      Recurso 95@4x_59: -1164824010
+      Recurso 95@4x_74: -2109171384
+      Recurso 95@4x_39: 1391060514
+      Recurso 95@4x_31: 1558243109
+      Recurso 95@4x_88: -539391546
+      Recurso 95@4x_63: 462825973
+      Recurso 95@4x_79: 1955718561
+      Recurso 95@4x_112: 266389009
+      Recurso 95@4x_7: 1497004897
+      Recurso 95@4x_48: 1212738646
+      Recurso 95@4x_69: -1281842178
+      Recurso 95@4x_6: -1425479754
+      Recurso 95@4x_14: -62555039
+      Recurso 95@4x_57: -976842011
+      Recurso 95@4x_108: 1409968148
+      Recurso 95@4x_15: -457003293
+      Recurso 95@4x_41: -857385545
+      Recurso 95@4x_109: 1865181211
+      Recurso 95@4x_95: -1854837050
+      Recurso 95@4x_45: 1476683079
+      Recurso 95@4x_78: -969428636
+      Recurso 95@4x_99: 1788532867
+      Recurso 95@4x_98: 1781724844
+      Recurso 95@4x_104: 1189558692
+      Recurso 95@4x_17: -2102225473
+      Recurso 95@4x_18: -1045177790
+      Recurso 95@4x_0: 1479030877
+      Recurso 95@4x_82: -1608837673
+      Recurso 95@4x_55: -2133471028
+      Recurso 95@4x_61: 140323458
+      Recurso 95@4x_10: 445561868
+      Recurso 95@4x_93: -1932427448
+      Recurso 95@4x_81: 550817736
+      Recurso 95@4x_29: 430295911
+      Recurso 95@4x_37: -987444148
+      Recurso 95@4x_73: -1283711738
+      Recurso 95@4x_49: 1040787477
+      Recurso 95@4x_34: 986736060
+      Recurso 95@4x_9: -228887488
+      Recurso 95@4x_52: 1756435034
+      Recurso 95@4x_8: -888979933
+      Recurso 95@4x_12: -1523676484
+      Recurso 95@4x_110: 2585014
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 6a7a7b7f8fa8d3c4a8056f459c3fc4b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_0"
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 67
+        width: 1571
+        height: 2368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee93ce16533395343a805d54d9f0b751
+      internalID: 1657649929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_3"
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 39
+        width: 2369
+        height: 2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fcf9932c6ae3a47b59000596003773
+      internalID: -4587565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_4"
+      rect:
+        serializedVersion: 2
+        x: 7007
+        y: 2305
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44f9c44f1fe5848acf788316b61158
+      internalID: -1605938010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_5"
+      rect:
+        serializedVersion: 2
+        x: 7214
+        y: 2322
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c92ceb605c3dfd4e8d6ea869e21adbe
+      internalID: 1222594223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_6"
+      rect:
+        serializedVersion: 2
+        x: 7323
+        y: 2312
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046f485d0b3c7774c90c56a2ccc73067
+      internalID: 119299184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_7"
+      rect:
+        serializedVersion: 2
+        x: 12997
+        y: 187
+        width: 1403
+        height: 1459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb14bc5886cc89747865c1e93a780b47
+      internalID: 1756484383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 1023
+        height: 1967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cebe8151863302418b8aebd2b5bd2f5
+      internalID: 1120871092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_9"
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 0
+        width: 1340
+        height: 2185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd3d060d037b642b5aef22fb0c2d99
+      internalID: 932358367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_10"
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 0
+        width: 709
+        height: 2030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6ccef0ca08f1f4c931365f58d666ca
+      internalID: 275056749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_11"
+      rect:
+        serializedVersion: 2
+        x: 9932
+        y: 84
+        width: 1223
+        height: 1960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71663242ef54f9142bb03a6665d5aea8
+      internalID: 1355409617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_12"
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 1605
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57f957b7941ad440b0f70ece4abb60e
+      internalID: -327016627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_13"
+      rect:
+        serializedVersion: 2
+        x: 11515
+        y: 84
+        width: 1264
+        height: 1496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74449f5eaa2e02d4fb60c398a0e404c4
+      internalID: 1120894672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_14"
+      rect:
+        serializedVersion: 2
+        x: 12277
+        y: 1562
+        width: 253
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0728fc2f9365d5f48a7171509528e5d4
+      internalID: -740899104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_16"
+      rect:
+        serializedVersion: 2
+        x: 8603
+        y: 176
+        width: 689
+        height: 1386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd7aa8aa54948142a52f6eb02457fd0
+      internalID: -354638915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_17"
+      rect:
+        serializedVersion: 2
+        x: 8564
+        y: 887
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786f36e32a00514cb5afebe71be83fc
+      internalID: -556982135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_18"
+      rect:
+        serializedVersion: 2
+        x: 12656
+        y: 845
+        width: 127
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda873053c523294494c8b6480fec62e
+      internalID: -846973828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_19"
+      rect:
+        serializedVersion: 2
+        x: 8564
+        y: 760
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd0510fa6c23cf4c831a4fd87dea080
+      internalID: -2069873539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_20"
+      rect:
+        serializedVersion: 2
+        x: 9281
+        y: 760
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3a4015fff86a9478ad809eaf5469e5
+      internalID: -1197420769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_21"
+      rect:
+        serializedVersion: 2
+        x: 12994
+        y: 760
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2725e35ed8b7cf3448c4c6bea349c02d
+      internalID: 1970435497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_22"
+      rect:
+        serializedVersion: 2
+        x: 9281
+        y: 633
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b99d53d892c51498b8472f796ced87
+      internalID: 1877083167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_23"
+      rect:
+        serializedVersion: 2
+        x: 11180
+        y: 633
+        width: 42
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e7d6d84c098b4b81a37565f28e37d
+      internalID: 1909633619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_24"
+      rect:
+        serializedVersion: 2
+        x: 12783
+        y: 633
+        width: 42
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33468749b05a3504d94b8797be4abd17
+      internalID: 496024150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_25"
+      rect:
+        serializedVersion: 2
+        x: 9281
+        y: 507
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715cbd4ebad1c2a4ea7a6612409aec13
+      internalID: 139316946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_26"
+      rect:
+        serializedVersion: 2
+        x: 11138
+        y: 422
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4e689078fee354f97681310973c4be
+      internalID: -1208189674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_27"
+      rect:
+        serializedVersion: 2
+        x: 8564
+        y: 253
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865710332f89e26489b854b66a1fdec8
+      internalID: -1492808124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_28"
+      rect:
+        serializedVersion: 2
+        x: 9281
+        y: 253
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49689d624a2f384393c453f300305e0
+      internalID: -1902918641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_30"
+      rect:
+        serializedVersion: 2
+        x: 12783
+        y: 169
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff4f7814a8598c49bc618054f1c5750
+      internalID: 331112009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_31"
+      rect:
+        serializedVersion: 2
+        x: 8986
+        y: 127
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90c3e9586b2b8243a58d3b9b2316393
+      internalID: 416452634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_32"
+      rect:
+        serializedVersion: 2
+        x: 13331
+        y: 127
+        width: 211
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc31e645d990be418603671eff09044
+      internalID: -573509848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_33"
+      rect:
+        serializedVersion: 2
+        x: 13584
+        y: 127
+        width: 127
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931e31dab1f5b6b4797e96a181e33944
+      internalID: -46497371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_34"
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 7
+        width: 422
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7a921163b0ac44bafeaced08ac2bd8
+      internalID: 1911689363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_35"
+      rect:
+        serializedVersion: 2
+        x: 12783
+        y: 84
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4a4cc7c7ec54e458fc824396bd8a8b
+      internalID: 1236077177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 295
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c191f809d7e7a844ca58e4c60b4397e5
+      internalID: -1334971891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_37"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 7
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f7ffc3f527c3a418acce1414be6b5a
+      internalID: 1835308691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-6_38"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 7
+        width: 380
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeae32b2053cd944b528bf086dc10d8
+      internalID: 1146638193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Sin t\xEDtulo-6_9": 932358367
+      "Sin t\xEDtulo-6_30": 331112009
+      "Sin t\xEDtulo-6_28": -1902918641
+      "Sin t\xEDtulo-6_14": -740899104
+      "Sin t\xEDtulo-6_17": -556982135
+      "Sin t\xEDtulo-6_20": -1197420769
+      "Sin t\xEDtulo-6_25": 139316946
+      "Sin t\xEDtulo-6_34": 1911689363
+      "Sin t\xEDtulo-6_10": 275056749
+      "Sin t\xEDtulo-6_6": 119299184
+      "Sin t\xEDtulo-6_31": 416452634
+      "Sin t\xEDtulo-6_36": -1334971891
+      "Sin t\xEDtulo-6_32": -573509848
+      "Sin t\xEDtulo-6_37": 1835308691
+      "Sin t\xEDtulo-6_19": -2069873539
+      "Sin t\xEDtulo-6_23": 1909633619
+      "Sin t\xEDtulo-6_16": -354638915
+      "Sin t\xEDtulo-6_27": -1492808124
+      "Sin t\xEDtulo-6_12": -327016627
+      "Sin t\xEDtulo-6_13": 1120894672
+      "Sin t\xEDtulo-6_21": 1970435497
+      "Sin t\xEDtulo-6_4": -1605938010
+      "Sin t\xEDtulo-6_39": 1529533423
+      "Sin t\xEDtulo-6_22": 1877083167
+      "Sin t\xEDtulo-6_35": 1236077177
+      "Sin t\xEDtulo-6_5": 1222594223
+      "Sin t\xEDtulo-6_26": -1208189674
+      "Sin t\xEDtulo-6_38": 1146638193
+      "Sin t\xEDtulo-6_24": 496024150
+      "Sin t\xEDtulo-6_0": 1657649929
+      "Sin t\xEDtulo-6_1": 865186489
+      "Sin t\xEDtulo-6_33": -46497371
+      "Sin t\xEDtulo-6_2": 1218688389
+      "Sin t\xEDtulo-6_29": -690830908
+      "Sin t\xEDtulo-6_8": 1120871092
+      "Sin t\xEDtulo-6_3": -4587565
+      "Sin t\xEDtulo-6_40": 297942196
+      "Sin t\xEDtulo-6_11": 1355409617
+      "Sin t\xEDtulo-6_15": 870502752
+      "Sin t\xEDtulo-6_18": -846973828
+      "Sin t\xEDtulo-6_7": 1756484383
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
